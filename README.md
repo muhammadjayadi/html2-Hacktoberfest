@@ -1,1 +1,3 @@
-# html2-Hacktoberfest
+# belajar-HTML-dasar
+
+* Kumpulan script HTML
